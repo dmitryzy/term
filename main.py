@@ -10,3 +10,6 @@ def get_term_data(element: str) -> str:
     """
     return element
 
+def entalp(element):
+    return element
+
